@@ -1,0 +1,37 @@
+body{
+  font-size: 20px
+}
+
+.topline{
+  padding:5px;
+  position: fixed;
+  top:0;
+  right:0;
+  display: inline-flex;
+}
+.szoveg{
+  position: relative;
+  top:5px;
+}
+
+.Google{
+  position: relative;
+  top:100px;
+  text-align: center;
+}
+.keresomezo{
+
+  position: relative;
+  text-align: center;
+  top:120px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.buttons {
+  position: relative;
+  text-align: center;
+  top:140px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

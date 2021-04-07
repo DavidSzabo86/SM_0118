@@ -1,0 +1,39 @@
+body{
+  font-size: 25px;
+
+}
+#adatok{
+  width: 400px;
+  background-color: #41b5a6;
+  border: 5px solid black;
+}
+
+
+.kek_paragraf{
+  background-color: #283799;
+}
+.szurke_paragraf{
+  background-color: #353640;
+}
+.sarga_paragraf{
+  background-color: #d0d611;
+}
+
+img {
+  width:inherit;
+  height:300px;
+}
+p {
+  padding: 35px;
+  margin: 5px;
+}
+button {
+  margin:0 auto;
+}
+p:hover {
+  color:red;
+}
+i {
+
+  color:white; background-color:#2fd66a;
+}
